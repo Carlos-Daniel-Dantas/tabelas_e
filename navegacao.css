@@ -1,0 +1,29 @@
+.navegacao{
+    width: 600px;
+    margin: 25px auto;
+
+}
+
+.navegacao nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.navegacao button{
+    color: #fff;
+    background-color: #2b80e2;
+    border-radius: 6px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+
+}
+
+.navegacao button:hover{
+    background-color: #8b8b8b41;
+    color: #000000;
+
+}
